@@ -1,5 +1,6 @@
 --Lets Code DeObfuscator For Zort Technologies 😊
---Boronide Obfuscation, v0.3.1
+--first FUCK UR SELF
+--and cry about that :)
 
 local a,b,c=nil,nil,nil([[
 
