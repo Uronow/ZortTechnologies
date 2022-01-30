@@ -2,6 +2,7 @@
 --first FUCK UR SELF
 --and cry about that :)
 --need help for DeObfuscate Zort Technologies ? Dm Tuaxa#9999 Its Helps DeObfuscate Zort Obfuscator
+--Lol
 
 
 local a,b,c=nil,nil,nil([[
