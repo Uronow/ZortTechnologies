@@ -4,8 +4,6 @@
 --need help for DeObfuscate Zort Technologies ? Dm Tuaxa#9999 Its Helps DeObfuscate Zort Obfuscator
 --piro_
 
---Boronide™ Premium Obfuscation, v0.3.3
-
 local a,b,c=nil,nil,nil([[
 
 	Zort Technologies (Anti-Deobfuscator and Skidding :smirk: (Beta_0.1))
