@@ -1,5 +1,4 @@
 --Test-3+3
---Boronide™ Premium Obfuscation, v0.3.3
 
 local a,b,c=nil,nil,nil([[
 
