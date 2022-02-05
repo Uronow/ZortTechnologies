@@ -1,2 +1,1 @@
-local g = {[537413528] = {name = "Babft", id = "2872611466",lst = "05/02/22",scr = "https://raw.githubusercontent.com/Uronow/ZortTechnologies/main/test/2"},[1] = "s"} --babft
-return g
+return "1+1 = 3"
