@@ -1,7 +1,5 @@
 --[[
-return function(ss)
-print(ss)
-end
+Test 1.0+2-2/3
 ]]
 --Boronide Obfuscation, v0.2.4
 
